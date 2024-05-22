@@ -6,7 +6,7 @@ import img9 from "../../../assets/img/10016.png"
 
 export default function Order() {
     return (
-        <div className="md:mt-[195px] mt-8">
+        <div className="md:mt-[195px] mt-24">
             <div className="text-center">
                 <h1 className="md:text-5xl text-2xl font-medium md:font-semibold">How To Order?</h1>
             </div>
